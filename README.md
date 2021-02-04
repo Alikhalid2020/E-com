@@ -1,10 +1,10 @@
-# Khalid-awards
+# Khalid-Ecom
 
 >[Khalid Ali] https://github.com/Alikhalid2020
   
 # Description  
 
-This is an Khalid-awards application where one can share his projects and also rate other peoples projects
+This is an  application where  someone can shop and buy good from the store
 
 ##  Live Link  
  Click [View Site]()  to visit the live-site
@@ -12,18 +12,17 @@ This is an Khalid-awards application where one can share his projects and also r
 ## User stories
 As a user, I would like to:
 
-View posted projects and their details
-Post a project to be rated/reviewed
-Rate/ review other users' projects
-Search for projects 
-View projects overall score
-View my profile page
+View goods in the store
+add a good the cart
+can see the good that are in the cart
+Can use the categories
+
   
 ## Setup and Installation  
  
 ##### Cloning the repository:  
  ```bash 
- https://github.com/Alikhalid2020/Khalid-awards-app
+ https://github.com/Alikhalid2020/E-com
 ```
 ##### Navigate into the folder and install requirements  
  ```bash 
