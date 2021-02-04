@@ -26,7 +26,7 @@ Can use the categories
 ```
 ##### Navigate into the folder and install requirements  
  ```bash 
-cd into Khalid-awards
+cd into E-COM
 ```
 ##### Install and activate Virtual  
  ```bash 
@@ -63,6 +63,7 @@ Open the application on your browser `127.0.0.1:8000`.
 * [Django 3.1.3](https://docs.djangoproject.com/en/2.2/)  
 * [Heroku](https://heroku.com)  
 * [Bootstrap4](https://getbootstrap.com/)
+* Javascript
 * CSS
 
   
