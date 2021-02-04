@@ -4,6 +4,7 @@ from .views.home import Index , store
 from .views.signup import Signup
 from .views.login import Login , logout
 from .views.cart import Cart
+from .views.uploads import upload
 from .views.checkout import CheckOut
 from .middlewares.auth import  auth_middleware
 
@@ -17,4 +18,7 @@ urlpatterns = [
     path('logout', logout , name='logout'),
     path('cart', auth_middleware(Cart.as_view()) , name='cart'),
     path('check-out', CheckOut.as_view() , name='checkout'),
+    path('upload/', upload.as_view() , name='upload'),
+
+
 ]
